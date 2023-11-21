@@ -1,0 +1,2 @@
+# nuxt-wk
+static webiste
